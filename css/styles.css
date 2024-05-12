@@ -8,6 +8,9 @@ Bootstrap Base Template from: Start Bootstrap
  * Copyright 2011-2022 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+
+
+
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
@@ -11124,7 +11127,7 @@ body {
 }
 
 .projects-section {
-  padding: 10rem 0;
+  padding-top: 2rem ;
 }
 .projects-section .featured-text {
   padding: 2rem;
