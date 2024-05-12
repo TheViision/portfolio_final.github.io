@@ -1,6 +1,6 @@
 /** License: https://bootstrapmade.com/license/
-*/
-
+*
+Bootstrap Element from: Bootstrap Made
 
 /*--------------------------------------------------------------
 # Preloader
@@ -130,7 +130,7 @@
   padding: 60px 30px;
   position: relative;
   overflow: hidden;
-  background: black;
+  background: linear-gradient(to bottom, #2596be , rgba(144, 238, 144, 1) 100%);
   box-shadow: 0 0 29px 0 rgba(0, 0, 0, 0.08);
   transition: all 0.3s ease-in-out;
   border-radius: 8px;
@@ -164,7 +164,7 @@
 }
 
 .hero .icon-box:hover {
-  background: grey;
+  background: purple;
 }
 
 .hero .icon-box:hover .title a,
